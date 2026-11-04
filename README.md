@@ -81,7 +81,7 @@ Compara la relación entre riesgo y rendimiento de tres activos entre **octubre 
 
 ---
 
-## 🔜 Próximos pasos
+##  Próximos pasos
 
 * Calcular la **beta** de cada activo respecto de SPY.
 * Agregar **volatilidad móvil**.
