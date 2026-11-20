@@ -78,7 +78,7 @@ Compara la relación entre riesgo y rendimiento de tres activos entre **octubre 
 * Se usan 252 días de operación por año para anualizar la volatilidad.
 * Se excluyó el 20/04/2026 de SPY y GLD porque la fuente traía el volumen como "N/A".
 * El período es de 5 años: incluye la caída de 2022, pero no otros ciclos de mercado.
-
+* Los precios de Nasdaq vienen ajustados por splits (verificado en el split 10 a 1 de NVDA de junio de 2024).
 ---
 
 ##  Próximos pasos
